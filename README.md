@@ -1,4 +1,4 @@
-Note: This is an unstable fork made for use in rustc
+Note: This is an unstable fork made for use in dustc
 
 # Rayon
 
